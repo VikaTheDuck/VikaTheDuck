@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👾
 
+💻 Web dev Projects:
+- [Flask Website](https://github.com/VikaTheDuck/Rocket-League-Flask-Project)
+- [React Portfolio with ThreeJS/Framer Motion/TailwindCSS](https://github.com/VikaTheDuck/Portfolio-React)
+
+📟 Embedded Systems Projects:
+- [School Labs with Arduino & TTGO Esp32](https://github.com/VikaTheDuck/Embedded_Systems)
+- [Final Project](https://github.com/kofmanA/Soen422FinalProject)
 <!--
 **VikaTheDuck/VikaTheDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=VikaTheDuck&color=blueviolet)
